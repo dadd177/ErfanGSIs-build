@@ -7,7 +7,7 @@ on:
         description: 'http://bigota.d.miui.com/V12.0.5.0.QFACNXM/miui_CEPHEUS_V12.0.5.0.QFACNXM_d14054540d_10.0.zip'
         required: true
       ROM_TYPE:
-        description: 'A'
+        description: 'Aonly'
         required: true
       RELEASE_NAME:
         description: 'MIUI'
